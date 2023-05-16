@@ -1,6 +1,6 @@
 ## Hi, I'm Rodrigo E. Yamaguchi 👋
-- Computer science student 
-  
+- Computer science student in IFSP 
+
 ### Skills: Languages and development tools
 
 ## Front-end
@@ -24,6 +24,8 @@
 </div>
 
 <br><br>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=digoeiji&label=Profile%20views&color=0e75b6&style=flat" alt="digoeiji" /> </p>
 
 <!--<div>
 <a href="https://github.com/digoeiji">
